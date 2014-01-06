@@ -1,0 +1,48 @@
+@charset "UTF-8";
+/* CSS Document */
+
+body {
+	background-color:#290014;
+	padding:3rem;
+}
+
+blockquote {
+	border-radius:15px;
+	background-color:#A30052;
+	font-family:Georgia, "Times New Roman", Times, serif;
+	font-size:1.5rem;
+	color:#FFF;
+	margin:20rem;
+	padding:4rem;
+	margin-top:5rem;
+}
+
+.strong1 {
+	font-family:Arial, Helvetica, sans-serif;
+	font-size:8rem;
+	color:#BA265D;
+	float:left;
+	line-height:0;
+	padding-top:2.5rem;
+		
+}
+
+.strong2 {
+	font-family:Arial, Helvetica, sans-serif;
+	font-size:8rem;
+	color:#BA265D;
+	float:right;
+	line-height:0;
+	padding-top:2.5rem;
+}
+
+cite {
+	font-family:Arial, Helvetica, sans-serif;
+	font-size:1.5rem;
+	float:right;
+	padding-right:3rem;
+	color:#F4A2C0;
+	line-height:0;
+	margin:0;
+}
+
